@@ -19,7 +19,7 @@ body {
   padding: 10px 13px;
   min-width: 175px;
   line-height: 1.5em;
-  white-space: no-wrap;
+  white-space: nowrap;
   text-transform: uppercase;
   cursor: pointer;
   border-radius: 15px;
